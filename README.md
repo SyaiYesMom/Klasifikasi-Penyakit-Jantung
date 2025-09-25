@@ -11,12 +11,11 @@ Dengan memanfaatkan **Machine Learning**, model ini bisa menjadi langkah awal un
 
 
 ## 📦 Apa yang Ada di Repo Ini?
-'''bash
+
 | File / Folder | Isi |
 |---------------|-----|
 | `heart.csv`   | Dataset pasien (fitur medis & label penyakit jantung) |
 | `main.py`     | Script utama: load data → training → evaluasi model |
 | `README.md`   | Dokumentasi (file ini) |
 
-'''
 ---
