@@ -26,3 +26,6 @@ Sebelum menjalankan project, pastikan kamu sudah install Python 3.x dan beberapa
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+'''
+
+## 🚀 Cara Menjalankan
