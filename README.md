@@ -30,8 +30,24 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
 ### 🚀 Cara Menjalankan
+1. Clone repositori ini:
 
 ```bash
 git clone https://github.com/SyaiYesMom/Klasifikasi-Penyakit-Jantung.git
 cd Klasifikasi-Penyakit-Jantung
 ```
+
+2. Jalankan script utama:
+
+```bash
+python main.py
+```
+
+3. Hasil yang akan keluar biasanya berupa:
+- Akurasi model
+- Confusion Matrix
+- Prediksi apakah pasien berisiko atau tidak
+- Perbandingan pasien yang terkena penyakit jantung atau tidak nya
+
+### 🧪 Contoh Output
+
