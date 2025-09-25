@@ -21,7 +21,7 @@ Dengan memanfaatkan **Machine Learning**, model ini bisa menjadi langkah awal un
 ---
 
 
-### ⚙️ Instalasi
+## ⚙️ Instalasi
 Sebelum menjalankan project, pastikan kamu sudah install Python 3.x dan beberapa library berikut:
 
 
