@@ -54,12 +54,19 @@ python main.py
 
 <img width="430" height="135" alt="Screenshot 2025-09-25 143334" src="https://github.com/user-attachments/assets/3074b605-7467-4b5c-8032-15e27dfb47b4" />
 
+
+
 ### 2. Output Machine Learning dengan model Logistic Regression
 
 <img width="872" height="498" alt="Screenshot 2025-09-25 143412" src="https://github.com/user-attachments/assets/ddae7678-7e69-4415-b28d-5f8b4fedaae9" />
 
+
+
 ### 3. Output Machine Learning dengan model Decision Tree
+
 <img width="872.5" height="500.5" alt="Screenshot 2025-09-25 143452" src="https://github.com/user-attachments/assets/d9483366-09f4-4f29-b13d-f23f6a86f65d" />
+
+
 
 ### 4. Output Machine Learning dengan model SVM
 
