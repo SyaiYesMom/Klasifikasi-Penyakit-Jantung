@@ -8,3 +8,15 @@ Dengan memanfaatkan **Machine Learning**, model ini bisa menjadi langkah awal un
 - Membuat model klasifikasi sederhana untuk mendeteksi penyakit jantung.  
 - Memberikan gambaran bagaimana *machine learning* bisa digunakan dalam bidang kesehatan.  
 - Menyediakan contoh implementasi yang mudah dijalankan untuk pembelajaran.
+
+
+## 📦 Apa yang Ada di Repo Ini?
+'''bash
+| File / Folder | Isi |
+|---------------|-----|
+| `heart.csv`   | Dataset pasien (fitur medis & label penyakit jantung) |
+| `main.py`     | Script utama: load data → training → evaluasi model |
+| `README.md`   | Dokumentasi (file ini) |
+
+'''
+---
