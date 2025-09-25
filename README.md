@@ -10,7 +10,7 @@ Dengan memanfaatkan **Machine Learning**, model ini bisa menjadi langkah awal un
 - Menyediakan contoh implementasi yang mudah dijalankan untuk pembelajaran.
 
 
-## 📦 Apa yang Ada di Repo Ini?
+### 📦 Apa yang Ada di Repo Ini?
 
 | File / Folder | Isi |
 |---------------|-----|
@@ -21,11 +21,17 @@ Dengan memanfaatkan **Machine Learning**, model ini bisa menjadi langkah awal un
 ---
 
 
-## ⚙️ Instalasi
+### ⚙️ Instalasi
 Sebelum menjalankan project, pastikan kamu sudah install Python 3.x dan beberapa library berikut:
+
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
-'''
+```
 
-## 🚀 Cara Menjalankan
+### 🚀 Cara Menjalankan
+
+```bash
+git clone https://github.com/SyaiYesMom/Klasifikasi-Penyakit-Jantung.git
+cd Klasifikasi-Penyakit-Jantung
+```
