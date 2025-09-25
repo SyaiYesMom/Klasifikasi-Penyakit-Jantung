@@ -19,3 +19,10 @@ Dengan memanfaatkan **Machine Learning**, model ini bisa menjadi langkah awal un
 | `README.md`   | Dokumentasi (file ini) |
 
 ---
+
+
+## ⚙️ Instalasi
+Sebelum menjalankan project, pastikan kamu sudah install Python 3.x dan beberapa library berikut:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn
